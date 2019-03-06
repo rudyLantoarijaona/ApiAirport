@@ -50,8 +50,6 @@
 #api
 api/composer.json
 api/composer.lock
-api/.env
 
-.env
 composer.json
 composer.lock
